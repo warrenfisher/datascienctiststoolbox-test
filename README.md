@@ -1,2 +1,2 @@
-# datascienctiststoolbox-test
-Coursera Data Scienctists Toolbox Test REPO
+# datascientiststoolbox-test
+Coursera Data Scientists Toolbox Test REPO
